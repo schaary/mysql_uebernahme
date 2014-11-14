@@ -5,8 +5,8 @@ MYSQL_COMMAND='/usr/bin/mysql'
 MYSQLDUMP_COMMAND='/usr/bin/mysqldump'
  
 # Die Datenbanken
-SOURCE_DB='kulunda'
-TARGET_DB='a6ajc_kulunda'
+SOURCE_DB=''
+TARGET_DB=''
 # SOURCE_DB='menalib'
 # TARGET_DB='a6agy_menalib'
  
