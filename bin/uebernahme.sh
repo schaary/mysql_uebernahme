@@ -7,8 +7,6 @@ MYSQLDUMP_COMMAND='/usr/bin/mysqldump'
 # Die Datenbanken
 SOURCE_DB=''
 TARGET_DB=''
-# SOURCE_DB='menalib'
-# TARGET_DB='a6agy_menalib'
  
 # Aufraeumen in der TARGET_DB
 #
